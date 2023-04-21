@@ -1,1 +1,23 @@
-Esta es mi metadata
+{
+    "name": "Bachelor's Degree in Computer Science",
+    "description": "This certificate verifies that John Doe has successfully completed the Bachelor's Degree in Computer Science.",
+    "image": "https://myserver.com/certificates/images/certificate_1.png",
+    "attributes": [
+        {
+            "trait_type": "Degree",
+            "value": "Bachelor's"
+        },
+        {
+            "trait_type": "Field of Study",
+            "value": "Computer Science"
+        },
+        {
+            "trait_type": "Issued by",
+            "value": "XYZ University"
+        },
+        {
+            "trait_type": "Date of Issue",
+            "value": "2023-05-01"
+        }
+    ]
+}
